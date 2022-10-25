@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samriddhii-Siingh
-- 👀 I’m interested in data structures and web development
-- 🌱 I’m currently exploring more in web development
+- 👀 I’m interested in web development
+- 🌱 I’m currently exploring more technologies in web dev
 
 <!---
 Samriddhii-Siingh/Samriddhii-Siingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
