@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samriddhii-Siingh
-- 👀 My domain of interest is in web development
+- 👀 My domain of interest is web development
 - 🌱 I’m currently exploring more domains and improving my skills
 
 <!---
