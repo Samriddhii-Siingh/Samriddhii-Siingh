@@ -1,12 +1,12 @@
-
-<img align="center" src="https://dribbble.com/shots/3641004-Coding-Animation?utm_source=Clipboard_Shot&utm_campaign=lordgiotto&utm_content=Coding%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=lordgiotto&utm_content=Coding%20Animation&utm_medium=Social_Share" alt="banner">
+![Banner](https://github.com/Samriddhii-Siingh/Samriddhii-Siingh/blob/main/images/working.gif)
 <h1 align="center">Hi 👋, I'm Samriddhi</h1>
 <h3 align="center">A web developer and IT undergrad'24</h3>
-<img align="right" src="https://dribbble.com/shots/1738665-Typing?list=searches&tag=type_animation&offset=12&utm_source=Clipboard_Shot&utm_campaign=fraserdavidson&utm_content=Typing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=fraserdavidson&utm_content=Typing&utm_medium=Social_Share" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samriddhii-siingh&label=Profile%20views&color=0e75b6&style=flat" alt="samriddhii-siingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samriddhii-siingh" alt="samriddhii-siingh" /></a> </p>
+
+<img align="right" src="https://github.com/Samriddhii-Siingh/Samriddhii-Siingh/blob/main/images/coding.gif" alt="coding" width="300" />
 
 - 🔭 I’m currently working on [Projectify](https://github.com/Samriddhii-Siingh/Projectify)
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samriddhii-siingh&show_icons=true&locale=en&layout=compact" alt="samriddhii-siingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samriddhii-siingh&show_icons=true&locale=en" alt="samriddhii-siingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samriddhii-siingh&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="samriddhii-siingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhii-siingh&" alt="samriddhii-siingh" /></p>
