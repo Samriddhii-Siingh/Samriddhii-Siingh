@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Samriddhii-Siingh/Samriddhii-Siingh/blob/main/images/working.gif)
 <h1 align="center">Hi 👋, I'm Samriddhi</h1>
-<h3 align="center">A web developer and IT undergrad'24</h3>
+<h3 align="center">A web developer and an IT undergrad'24</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samriddhii-siingh&label=Profile%20views&color=0e75b6&style=flat" alt="samriddhii-siingh" /> </p>
 
