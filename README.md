@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **React.js,Node.js**
 
+- 💻👨‍💻 Looking for internships'2023
+
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **ss2072163@gmail.com**
