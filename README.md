@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js,Node.js**
 
-- 💻👨‍💻 Looking for internships'2023
+- 💻👨‍💻 Open for internship'2023
 
 - 💬 Ask me about **java**
 
