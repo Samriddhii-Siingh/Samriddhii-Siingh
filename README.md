@@ -14,7 +14,7 @@
 
 - 💻👨‍💻 Open for internship'2023
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **my projects**
 
 - 📫 How to reach me **ss2072163@gmail.com**
 
