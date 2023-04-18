@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Projectify](https://github.com/Samriddhii-Siingh/Projectify)
 
-- 🌱 I’m currently learning **React.js,Node.js**
+- 🌱 I’m currently learning **MERN**
 
 - 💻👨‍💻 Open for internship'2023
 
