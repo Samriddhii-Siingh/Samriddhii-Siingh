@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Samriddhii-Siingh/Samriddhii-Siingh/blob/main/images/working.gif)
 <h1 align="center">Hello 👋, I'm Samriddhi</h1>
-<h3 align="center">A web developer and an IT undergrad'24</h3>
+<h3 align="center">Final Year IT Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samriddhii-siingh&label=Profile%20views&color=0e75b6&style=flat" alt="samriddhii-siingh" /> </p>
 
@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💻👨‍💻 Open for internship'2023
+- 💻👨‍💻 Open for full time job opportunities
 
 - 💬 Ask me about **my projects**
 
 - 📫 How to reach me **ss2072163@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AlJSXDC8zoZL2mzEA0kgsxWLjKM7?e=DpM8wQ](https://1drv.ms/b/s!AlJSXDC8zoZL2mzEA0kgsxWLjKM7?e=DpM8wQ)
+- 📄 Know about my experiences [https://1drv.ms/b/s!AlJSXDC8zoZLg9Uq6H-HWlFbFTt0lg
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
