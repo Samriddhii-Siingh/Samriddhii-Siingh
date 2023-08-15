@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ss2072163@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AlJSXDC8zoZLg9Uq6H-HWlFbFTt0lg
+- 📄 [Know about my experiences](https://1drv.ms/b/s!AlJSXDC8zoZLg9Uq6H-HWlFbFTt0lg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
