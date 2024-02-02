@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💻👨‍💻 Open for full time job opportunities
+- 💻👨‍💻 Open for internships & job opportunities
 
 - 💬 Ask me about **my projects**
 
